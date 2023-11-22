@@ -4,7 +4,7 @@ In this lab, you will write end-to-end (e2e) tests in Cypress.
 
 ## Getting Started
 
-1. Start by cloning this repository.
+1. Start by forking and cloning this repository. **Please don't clone, you need your own fork of this repo to be able to work with it!**
 
 2. Open it in VSCode.
 
@@ -34,3 +34,15 @@ The tests for this social media app for developers (Nerdbook) are in the `0-nerd
 you on your testing journey.
 
 Run the tests. You should see Grace Hopper sign up.
+
+## Assignment
+
+Check out the Issues on this repository.
+
+* Assign an issue to yourself
+* Create a new branch in your repo on your computer
+* Implement the necessary tests from the issue
+* Commit your changes
+* Push your branch
+* Create a Pull Request
+* Ask your teacher to review it
