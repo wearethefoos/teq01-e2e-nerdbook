@@ -37,12 +37,15 @@ Run the tests. You should see Grace Hopper sign up.
 
 ## Assignment
 
-Check out the Issues on this repository.
+Check out the Project on this repository.
 
-* Assign an issue to yourself
+* Assign the top-left issue to yourself
+* Move the issue to the In Progress lane
 * Create a new branch in your repo on your computer
 * Implement the necessary tests from the issue
 * Commit your changes
 * Push your branch
 * Create a Pull Request
 * Ask your teacher to review it
+* When approved, merge the Pull Request
+* Move your issue to the Done lane
