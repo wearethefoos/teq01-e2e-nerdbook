@@ -1,0 +1,10 @@
+{
+   	
+    {
+        "id": 1,
+        "title": "Clean your github",
+        "content": "Cleaning up your GitHub profile, and writing good commit messages, can show your future employees that you're a good team player!",
+        "tags": ["github", "testing", "post"],
+        "createdAt": "2023-11-25T12:00:00Z",
+        "updatedAt": "2023-11-25T12:30:00Z"
+      }
